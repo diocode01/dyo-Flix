@@ -9,7 +9,7 @@ body{
 }
 .container{
     text-align: center;
-    padding: 20px;
+    padding: 40px;
 }
 .pagina-titulo{
     color: #f72c2c;
@@ -22,14 +22,11 @@ body{
     margin-top: 5px;
 }
 body > img{
-    margin: 0 10px;
+    margin: 0 100px;
 }
 
 .botao{
     background-color: rgb(252, 100, 89);
     border-radius: 6px;
     margin-bottom: 10px;
-}
-h1{
-    text-align:center;
 }
